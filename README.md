@@ -1,22 +1,3 @@
-# Optimized responsive UI with Next.js, shadcn UI, and Tailwind CSS 🔥
-
-For Demo checkout following links👇: <br />
-[Test Project Website](https://nextjs-test-alpha.vercel.app/) <br />
-
-Starter Code Files👇: <br />
-[Test Project Website Starter Code](https://github.com/ProAardvark/NextjsTest) <br />
-
-### ⭐DO NOT FORGET TO STAR THIS REPO⭐
-
-### Screenshots:
-Desktop view👇: <br />
-![totalPage](https://github.com/ProAardvark/NextjsTest/assets/153660829/ba874d19-81cb-421e-ab67-e5038088d8bb)
-<br />
-Mobile view👇: <br />
-![mobile1](https://github.com/ProAardvark/NextjsTest/assets/153660829/bbec76ef-c7a6-4039-839e-5afde05e567e)
-![mobile2](https://github.com/ProAardvark/NextjsTest/assets/153660829/2202c7ba-aa37-4eff-87a0-8cd91efb9457)
-![mobile3](https://github.com/ProAardvark/NextjsTest/assets/153660829/45c28c66-1334-4da5-9f27-ea7ec3f789a5)
-
 ## Getting Started
 
 First, run the development server:
